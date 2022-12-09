@@ -121,5 +121,5 @@ Setelah itu akan muncul file model pada direktori `database/models/` dan `databa
 
 Dokumentasi selengkapnya:
 
-🔗 [https://sequelize.org/docs/v6/other-topics/migrations/](https://https://sequelize.org/docs/v6/other-topics/migrations/)
+🔗 [https://sequelize.org/docs/v6/other-topics/migrations/](https://sequelize.org/docs/v6/other-topics/migrations/)
 
